@@ -1,0 +1,5 @@
+unique_animals = set(["Dog", "Cat", "Hippo", "Dog", "Cat", "Dog", "Dog", "Cat"])
+print(unique_animals)
+unique_animals.add("Snake")
+print(unique_animals)
+alist(unique_animals))
